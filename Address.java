@@ -8,7 +8,7 @@ public class Address {
         
     
     Node obj = new Node();
-    obj.data = 10;
+    obj.data = 30;
     obj.address = 10;
     System.out.println();
     System.out.println();
