@@ -11,7 +11,7 @@ public class AddNumbers {
         System.out.println("Sum = "+sum);
     }
     public static void main(String[] args) {
-        AddNumbers obj = new AddNumbers(30,43);
-        obj.displaySum();
+        AddNumbers obj1 = new AddNumbers(30,43);
+        obj1.displaySum();
     }
 }
