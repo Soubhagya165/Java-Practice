@@ -19,7 +19,7 @@ public class pattern10 {
             {
                 a--;
             }
-            System.out.println();
+            System.out.println(".");
         }
 
     }
