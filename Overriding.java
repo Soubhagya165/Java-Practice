@@ -19,7 +19,10 @@ class Dog extends Animal{
 }
 public class Overriding {
     public static void main(String[] args) {
-        Dog obj = new Animal();
+        Animal obj = new Animal();
+        obj.name = "Silu";
+        Mamal obj2 = new Dog();
+        obj2.color = "red";
 
     }
 }
